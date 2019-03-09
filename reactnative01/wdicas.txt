@@ -1,0 +1,26 @@
+﻿-- pasta "C:\Users\Cesar\AppData\Local\Yarn\Data\global\node_modules"
+-- o comando yarn global add react-native-cli é executado apenas uma vez para instalar o cli
+D:\rocketseat\ react-native init NOME_DO_PROJETO -- criar um novo projeto
+D:\rocketseat\ react-native start -- executar apenas no terminal(CMD) do packager, quando tiver uma alteracao no JS
+****************
+D:\rocketseat\nativemodulo01 react-native start --reset-cache *** caso precise se tiver erros
+****************
+D:\rocketseat\nativemodulo01 yarn add prop-types
+D:\rocketseat\nativemodulo01 yarn add eslint -D
+D:\rocketseat\nativemodulo01 yarn eslint --init
+D:\rocketseat\nativemodulo01 yarn add babel-eslint eslint-plugin-react-native -D
+D:\rocketseat\nativemodulo01 yarn add react-devtools --dev
+***** tem add uma linha no arquivo package.json  no objeto "script"{ "react-devtools": "react-devtools" }
+D:\rocketseat\nativemodulo01 yarn run react-devtool -- executando no comando DOS
+D:\rocketseat\nativemodulo01 react-native run-android -- executar depois do comando da linha de cima
+D:\rocketseat\nativemodulo01  yarn add babel-plugin-root-import -D
+********* eslint-import-resolver-babel-plugin-root-import: resolver problemas dos arquivos nao localizados ficam com a linha vermelha
+********* tem que add uma linha no arquivo .eslintrc.json -->  "settings": { ...
+D:\rocketseat\nativemodulo01  yarn add eslint-import-resolver-babel-plugin-root-import -D
+**** criar esse arquivo jsconfig.json para tentar localizar os arquivos importados '~/nomedoarquivo'
+****** Desafio
+D:\rocketseat\nativemodulo01 yarn add prop-types
+
+
+
+
