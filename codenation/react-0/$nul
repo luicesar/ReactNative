@@ -1,0 +1,10 @@
+ PASS  src\components\Navbar.test.js (6.305s)
+ PASS  src\components\App.test.js (6.436s)
+ PASS  src\components\RecipeItem.test.js (6.862s)
+ PASS  src\__tests__\validation.test.js
+
+Test Suites: 4 passed, 4 total
+Tests:       16 passed, 16 total
+Snapshots:   0 total
+Time:        11.147s, estimated 12s
+Ran all test suites.
