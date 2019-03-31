@@ -1,0 +1,6 @@
+﻿-- o comando yarn global add react-native-cli é executado apenas uma vez para instalar o cli
+D:\rocketseat\ react-native init NOME_DO_PROJETO -- criar um novo projeto
+**** **** caso de erro ao tentar rodar o comando no android
+react-native start --reset-cache executa em um terminal CMD
+react-native run-android e outro terminal CMD
+**** **** 
